@@ -12,7 +12,7 @@ end
 
 endmodule
 
-/*module divider(
+module divider(
   input clk,
   input rst,
   input en,
